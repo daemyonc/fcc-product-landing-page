@@ -206,6 +206,7 @@ section#gear {
           align-items: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  font-size: 2rem;
 }
 
 #burgess {
@@ -216,7 +217,6 @@ section#gear {
       -ms-flex-pack: end;
           justify-content: flex-end;
   width: 100%;
-  font-size: 4rem;
   font-weight: 700;
   margin-bottom: 60px;
 }
@@ -237,8 +237,8 @@ section#gear {
       -ms-flex-direction: row-reverse;
           flex-direction: row-reverse;
   width: 100%;
-  font-size: 4rem;
   font-weight: 700;
+  margin-bottom: 60px;
 }
 
 #cumberland h2 {
@@ -253,7 +253,6 @@ section#gear {
       -ms-flex-pack: end;
           justify-content: flex-end;
   width: 100%;
-  font-size: 4rem;
   font-weight: 700;
   margin-bottom: 60px;
 }
